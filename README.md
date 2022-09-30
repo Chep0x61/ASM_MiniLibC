@@ -9,7 +9,7 @@
 ## Setup Project
 
 ```bash
-make .
+make
 ```
 
 ### Then you are free to use this `.so` file as a lib in your project to test it !
