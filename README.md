@@ -1,6 +1,6 @@
 # ASM_MiniLibC
 
-### First initiation with the ASMx86, remade some Lib C Functions. 
+### This is my first initiation project with x86 Assembly, I remade some Lib C Functions. 
 
 ## Project Stack
 
@@ -11,6 +11,8 @@
 ```bash
 make .
 ```
+
+### Then you are free to use this `.so` file as a lib in your project to test it !
 
 ## Available Functions
 
